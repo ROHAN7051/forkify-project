@@ -1,4 +1,4 @@
-// import { async } from 'regenerator-runtime.js;';
+import { async } from 'regenerator-runtime.js;';
 import { indexOf } from 'core-js/./es/array';
 import { API_URL, RES_PER_PAGE, KEY } from './config.js';
 // import { getJSON, sentJSON } from './helpers.js';
